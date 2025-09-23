@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Hugo Cortinas
 
-<!--
-**Hcortinas/Hcortinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Data & Cloud** | Power BI · SQL · Excel | IT Systems @ Museo Papagayo  
+📚 Google Data Analytics · PL-300 · AWS SAA (en progreso)  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- Desarrollo dashboards **Power BI/Excel** y sistemas **PHP/MySQL** que convierten datos en decisiones.
+- Modernicé infraestructura TI y exhibiciones interactivas en el Museo Interactivo Papagayo.
+- Apasionado por **analítica**, **nube** y **automatización**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Proyectos Destacados
+- [Visitor Analytics Dashboard](https://github.com/hugocortinas/visitor-analytics-bi) — KPIs de visitas y ventas.
+- [Papagayo Store](https://github.com/hugocortinas/papagayo-store) — Sistema de ventas/inventario con roles.
+- [IoT Water Quality](https://github.com/hugocortinas/iot-water-quality) — Sensores + análisis en Python.
+
+---
+⭐ **Busco oportunidades** de freelance/part-time en Data Analytics & BI.  
+📬 Contáctame: [LinkedIn](https://www.linkedin.com/in/hugodavidcortinasgonzalez)
