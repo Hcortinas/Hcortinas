@@ -9,9 +9,9 @@
 - Apasionado por **analítica**, **nube** y **automatización**.
 
 ## 🔗 Proyectos Destacados
-- [Visitor Analytics Dashboard](https://github.com/hugocortinas/visitor-analytics-bi) — KPIs de visitas y ventas.
-- [Papagayo Store](https://github.com/hugocortinas/papagayo-store) — Sistema de ventas/inventario con roles.
-- [IoT Water Quality](https://github.com/hugocortinas/iot-water-quality) — Sensores + análisis en Python.
+- [Visitor Analytics Dashboard](https://github.com/hcortinas/visitor-analytics-bi) — KPIs de visitas y ventas.
+- [Papagayo Store](https://github.com/hcortinas/papagayo-store) — Sistema de ventas/inventario con roles.
+- [IoT Water Quality](https://github.com/hcortinas/iot-water-quality) — Sensores + análisis en Python.
 
 ---
 ⭐ **Busco oportunidades** de freelance/part-time en Data Analytics & BI.  
